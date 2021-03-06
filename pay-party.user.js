@@ -7,7 +7,7 @@
 // @version     0.0.1
 // @author      Pablo
 // @description
-// @downloadURL
+// @downloadURL https://github.com/pbl0/pay-party/raw/main/pay-party.user.js
 // @require https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 // ==/UserScript==
 
